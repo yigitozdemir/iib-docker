@@ -1,5 +1,8 @@
 # Overview
 
+_this is an enchanged version of_ [ot4i's iib-docker project](https://github.com/ot4i/iib-docker)
+_To use this version, you should download iib developer edition from IBM's website and locate it to 10.0.0.10 folder_
+
 This repository contains a Dockerfile and some scripts which demonstrate a way in which you might run [IBM Integration Bus](http://www-03.ibm.com/software/products/en/ibm-integration-bus) in a [Docker](https://www.docker.com/whatisdocker/) container.
 
 IBM would [welcome feedback](#issues-and-contributions) on what is offered here.
